@@ -117,2122 +117,2122 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ulius Belmont_SP
+      name: JB_SP_0
       rect:
         serializedVersion: 2
         x: 7
         y: 681
         width: 21
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c51ada321286a68478a125a3cb8b647f
-      internalID: -15896854
+      spriteID: 3a23a2f9459dca541ab6f00bb38b37c6
+      internalID: 1794238646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_1
+      name: JB_SP_1
       rect:
         serializedVersion: 2
         x: 31
         y: 681
         width: 21
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2434b934fb88b046a5f355c623a7fe1
-      internalID: -1089534269
+      spriteID: 3a6ef77d668ce9441965cd34d25f0efe
+      internalID: 382913313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_2
+      name: JB_SP_2
       rect:
         serializedVersion: 2
         x: 55
         y: 681
         width: 21
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d27a1a9c29a05b84087f9f52d8afae96
-      internalID: 82687006
+      spriteID: 259d2cbd37bb5d34bae19793f4e1ca3a
+      internalID: -232469863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_3
+      name: JB_SP_3
       rect:
         serializedVersion: 2
         x: 79
         y: 681
         width: 21
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 785ea6f263ac86f46a3335f3b9304746
-      internalID: 1436031736
+      spriteID: 60f83eea254703e43b60a717da4bf51d
+      internalID: 275852926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_4
+      name: JB_SP_4
       rect:
         serializedVersion: 2
         x: 108
         y: 681
         width: 21
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d8ff3edb2593334ea4fd44070d3c6ed
-      internalID: 2026193131
+      spriteID: ed11004ed00f1484288848f8b94b69f2
+      internalID: -1162337678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_5
+      name: JB_SP_5
       rect:
         serializedVersion: 2
         x: 136
         y: 681
         width: 21
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3393b0594f7e3840b8429393f8310b6
-      internalID: -539860667
+      spriteID: 9813fc76d6f612841b032d45577b8de7
+      internalID: 1975821312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_6
+      name: JB_SP_6
       rect:
         serializedVersion: 2
         x: 166
         y: 681
         width: 21
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78cb072bc220f854593878549ae6fb31
-      internalID: 197687343
+      spriteID: 24d6c8f0fce6ab34e88a338c8b9c5db7
+      internalID: 2092034859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_7
+      name: JB_SP_7
       rect:
         serializedVersion: 2
         x: 195
         y: 681
         width: 21
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 266da9bdfcb9c4d4292a91f94308c815
-      internalID: 442023667
+      spriteID: 28c508aa02e445b48acd29352ec93b43
+      internalID: 1494066672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_8
+      name: JB_SP_8
       rect:
         serializedVersion: 2
         x: 5
         y: 634
         width: 23
         height: 43
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72c7b5a70a70cb74fb7e087038062ce5
-      internalID: -907964893
+      spriteID: e3de26aa881bd75489d3c6847d59c383
+      internalID: 2134263073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_9
+      name: JB_SP_9
       rect:
         serializedVersion: 2
         x: 33
         y: 634
         width: 33
         height: 36
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 860aa9c611dd8ae439eb85fd232d7a79
-      internalID: 669926060
+      spriteID: f63648bf46878794ca0c79439ebc4324
+      internalID: 798441250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_10
+      name: JB_SP_10
       rect:
         serializedVersion: 2
         x: 70
         y: 634
         width: 33
         height: 36
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9482cb4d9be4e914b8ee9be3603205e5
-      internalID: -204402899
+      spriteID: 31266ef7b990c5a4089e91359ef549f5
+      internalID: -411742811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_11
+      name: JB_SP_11
       rect:
         serializedVersion: 2
         x: 111
         y: 634
         width: 35
         height: 36
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92768eb7d1899d74f88b8bf53df13058
-      internalID: -847143832
+      spriteID: 4867b7bfbac43a94081cdc047e4cc182
+      internalID: -436776432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_12
+      name: JB_SP_12
       rect:
         serializedVersion: 2
         x: 151
         y: 634
         width: 35
         height: 37
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de7d2523f87e01a479590d086eac58af
-      internalID: -556707485
+      spriteID: 20af36252a7144845a0669d62fd04f2d
+      internalID: -862003541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_13
+      name: JB_SP_13
       rect:
         serializedVersion: 2
         x: 196
         y: 634
         width: 36
         height: 42
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ba4f021e39ea1b4898a5a5121bbe17f
-      internalID: 34345552
+      spriteID: 337d20324f6817e418d776583a913213
+      internalID: 1725511021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_14
+      name: JB_SP_14
       rect:
         serializedVersion: 2
         x: 0
         y: 581
         width: 29
         height: 42
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccd22eb047f9f4f498cce80f12f7937a
-      internalID: 1656589100
+      spriteID: a44dc112ac6930a469cba26eb29bc84e
+      internalID: -188718899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_15
+      name: JB_SP_15
       rect:
         serializedVersion: 2
         x: 32
         y: 581
         width: 29
         height: 44
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bbd77ed3c175644bb1a8172647917e5
-      internalID: -1298566714
+      spriteID: 21dea3905c9a777479c232f018ec8458
+      internalID: 1906647653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_16
+      name: JB_SP_16
       rect:
         serializedVersion: 2
         x: 65
         y: 581
         width: 29
         height: 44
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74083e87da487654398f24d9c9f2d74a
-      internalID: -1326190635
+      spriteID: 038d5e68435455545a2d3ff91d16054f
+      internalID: -500399156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_17
+      name: JB_SP_17
       rect:
         serializedVersion: 2
         x: 97
         y: 581
         width: 29
         height: 43
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe947380828b53c41a62ab6275f2ebd1
-      internalID: 667454465
+      spriteID: f7c08eb9717cfe44ab7b88f095fce006
+      internalID: -1493010161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_18
+      name: JB_SP_18
       rect:
         serializedVersion: 2
         x: 131
         y: 581
         width: 31
         height: 41
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df496c5f0adeebb4fb9af30fc893cb6d
-      internalID: -48118434
+      spriteID: 1f91bf2d4e0fa95489414a2eb461ff7e
+      internalID: -1376584398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_19
+      name: JB_SP_19
       rect:
         serializedVersion: 2
         x: 162
         y: 580
         width: 30
         height: 42
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3b1a9d8a6d53df40a273cbd7afa7db4
-      internalID: 1889969311
+      spriteID: 5dc4312a26346eb47af3150d67ad0957
+      internalID: -276575866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_20
+      name: JB_SP_20
       rect:
         serializedVersion: 2
         x: 194
         y: 580
         width: 31
         height: 44
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 132dd6094196dbd48a80cd32af9869ee
-      internalID: 859392163
+      spriteID: fa9b304f62eb30c488f2f4131bb9d456
+      internalID: -1940949564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_21
+      name: JB_SP_21
       rect:
         serializedVersion: 2
         x: 228
         y: 580
         width: 30
         height: 44
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aef5b855bc92ffa439fd8afd91993334
-      internalID: -98309033
+      spriteID: 322c170914804c546b7e7b9ef0b091a9
+      internalID: 734520727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_22
+      name: JB_SP_22
       rect:
         serializedVersion: 2
         x: 265
         y: 580
         width: 30
         height: 43
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4239f618f58852c41987bf3e3f919a3d
-      internalID: -1378820491
+      spriteID: 589fe1042a21dab42aec6b9961ec5dc5
+      internalID: -963319561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_23
+      name: JB_SP_23
       rect:
         serializedVersion: 2
         x: 304
         y: 580
         width: 30
         height: 42
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0abe60f40d1f4d4aa9e71139deb7614
-      internalID: -1136373852
+      spriteID: 0eaa4753841001242801c741c5ad6dc1
+      internalID: 1759179358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_24
+      name: JB_SP_24
       rect:
         serializedVersion: 2
         x: 8
         y: 530
         width: 20
         height: 44
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d61bb317aa7d9cd4d8688f0a783cec2d
-      internalID: 564520517
+      spriteID: cf5fe1117a0d448488a39331d0d15c02
+      internalID: 1689218230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_25
+      name: JB_SP_25
       rect:
         serializedVersion: 2
         x: 33
         y: 530
         width: 33
         height: 39
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 263445cec29193a4fa401cb252d28d53
-      internalID: -410852328
+      spriteID: a8d839f9fe8b981429cea98fb9ce9e11
+      internalID: 2005809988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_26
+      name: JB_SP_26
       rect:
         serializedVersion: 2
         x: 70
         y: 530
         width: 26
         height: 43
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47401b550d637964d823394cb9da058b
-      internalID: 1835155214
+      spriteID: 8f11f4370056a524cb49d56ffda586db
+      internalID: 2092444651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_27
+      name: JB_SP_27
       rect:
         serializedVersion: 2
         x: 101
         y: 530
         width: 23
         height: 44
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 449a3d9cebe9d5a4f8e4a750754c5ca4
-      internalID: -887526210
+      spriteID: 0d7cacd9e001c3e47a1b688e470fe05d
+      internalID: 716369113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_28
+      name: JB_SP_28
       rect:
         serializedVersion: 2
         x: 6
         y: 483
         width: 27
         height: 26
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0f3aa9c539c916408195eecc187cad1
-      internalID: 890884071
+      spriteID: 11c2d7f8726557f47aaf23896ff03fae
+      internalID: -1773007385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_29
+      name: JB_SP_29
       rect:
         serializedVersion: 2
         x: 37
         y: 483
         width: 29
         height: 28
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a5685ecb8de1f647ab821cfc228d435
-      internalID: -662928700
+      spriteID: c52217363a86b0849bb403cd28e4968a
+      internalID: 392102192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_30
+      name: JB_SP_30
       rect:
         serializedVersion: 2
         x: 74
         y: 483
         width: 29
         height: 26
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50df71cae0ade634eb43774e148cbad1
-      internalID: 875579480
+      spriteID: f15aec2705747834d843065c69bf3cf1
+      internalID: -739009804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_31
+      name: JB_SP_31
       rect:
         serializedVersion: 2
         x: 106
         y: 483
         width: 27
         height: 36
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e495f4f4b61800408dc668da8fe4c76
-      internalID: 1651571956
+      spriteID: 73714e3df12b76640a473cdab85bcf62
+      internalID: 1151945759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_32
+      name: JB_SP_32
       rect:
         serializedVersion: 2
         x: 144
         y: 483
         width: 21
         height: 40
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13fffb87561a17a4e9430108070b7f58
-      internalID: 1115147422
+      spriteID: 03bf402d5eeceb643a8ce8b206c1ef21
+      internalID: -657438102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_33
+      name: JB_SP_33
       rect:
         serializedVersion: 2
         x: 172
         y: 483
         width: 21
         height: 43
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f2e27616e70f7c4a95049894092b5fa
-      internalID: 992240328
+      spriteID: 17304bb04fc6b17488c566960576c80c
+      internalID: -1034901303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_34
+      name: JB_SP_34
       rect:
         serializedVersion: 2
         x: 200
         y: 483
         width: 24
         height: 44
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04df409a7cdca324f8ccabfc62114113
-      internalID: 120992738
+      spriteID: e072a5dbbfb574d459b5ab48ffb7e4d8
+      internalID: 1761477683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_35
+      name: JB_SP_35
       rect:
         serializedVersion: 2
         x: 235
         y: 483
         width: 21
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 169b0f4bc83e34749a4d83789b12b7fe
-      internalID: -1227093811
+      spriteID: a8d537ef69708ab4e837c5eb85d961b2
+      internalID: -978605862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_36
+      name: JB_SP_36
       rect:
         serializedVersion: 2
         x: 398
         y: 426
         width: 24
         height: 63
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75566f36cba28584e962900ded625231
-      internalID: 1798966447
+      spriteID: 2b53504ba14401741aa9f9bd6beaf0b7
+      internalID: 621530251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_37
+      name: JB_SP_37
       rect:
         serializedVersion: 2
         x: 7
         y: 427
         width: 26
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae64187e746caaf42b1a1dd4c7c266ae
-      internalID: 51058891
+      spriteID: eed625d2b6e5a9140819feea3c79d6ce
+      internalID: 121514438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_38
+      name: JB_SP_38
       rect:
         serializedVersion: 2
         x: 39
         y: 427
         width: 29
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 366579155b552d54a978ed0cb7c043ea
-      internalID: -493153109
+      spriteID: ba593d970f98bdd4f8c0b0d9c034a329
+      internalID: -1123845728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_39
+      name: JB_SP_39
       rect:
         serializedVersion: 2
         x: 75
         y: 427
         width: 28
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f270aaaf9d69dbc40a99a14eb0cefa6c
-      internalID: 1226086945
+      spriteID: 1202b632d49a5864ca04e4ffdc64ffe7
+      internalID: -1382087407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_40
+      name: JB_SP_40
       rect:
         serializedVersion: 2
         x: 109
         y: 427
         width: 25
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3603e819c985b1041bb839b1a2d21069
-      internalID: 245710524
+      spriteID: 4ffb92e98d1ecb54090f19e83ffc4072
+      internalID: -224353889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_41
+      name: JB_SP_41
       rect:
         serializedVersion: 2
         x: 141
         y: 427
         width: 28
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76a4d914164be564b837684981dd691d
-      internalID: 49061981
+      spriteID: 602b4f3cafd9812429a4916818ef70e8
+      internalID: -1688728641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_42
+      name: JB_SP_42
       rect:
         serializedVersion: 2
         x: 177
         y: 427
         width: 27
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78931ec3d99ec96479c17bf8d74ccaa1
-      internalID: 764934968
+      spriteID: 3bde4105e17a8734d9901aaea5469e52
+      internalID: -1939426414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_43
+      name: JB_SP_43
       rect:
         serializedVersion: 2
         x: 213
         y: 427
         width: 31
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87f6b8005cfe28f43b3b202614de3007
-      internalID: 612248515
+      spriteID: a5bdf6a2545ba8d438699aaa0964bd70
+      internalID: -268033192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_44
+      name: JB_SP_44
       rect:
         serializedVersion: 2
         x: 252
         y: 427
         width: 37
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bd6f9f405aca854c8d55bf28fc9b0ea
-      internalID: -21580191
+      spriteID: 67cdef90902b1524ba090e5e00cdcd74
+      internalID: -2026318048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_45
+      name: JB_SP_45
       rect:
         serializedVersion: 2
         x: 296
         y: 426
         width: 40
         height: 49
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32ee9fa5115a4414ca9b5c131be2195c
-      internalID: 2078920955
+      spriteID: 0acabd45913cb3a4782e1261245fcf43
+      internalID: -1529209288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_46
+      name: JB_SP_46
       rect:
         serializedVersion: 2
         x: 343
         y: 426
         width: 38
         height: 49
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d1c329194c5d2e4a93d07ac86b876c1
-      internalID: 708069203
+      spriteID: 45d287521e29b3140a5ee656ba1f7ed4
+      internalID: -110813082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_47
+      name: JB_SP_47
       rect:
         serializedVersion: 2
         x: 433
         y: 426
         width: 33
         height: 54
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4834872fd3f047345b736bda1db9b91d
-      internalID: 238391057
+      spriteID: 065ecbcd70786fe43b6a45cc9948daaf
+      internalID: 554480753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_48
+      name: JB_SP_48
       rect:
         serializedVersion: 2
         x: 6
         y: 373
         width: 26
         height: 35
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a45c532cac8389741af72bed785a7063
-      internalID: 1556229682
+      spriteID: 1f8116d1b2ec7854fa19039e67ca8a0a
+      internalID: 1472765323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_49
+      name: JB_SP_49
       rect:
         serializedVersion: 2
         x: 40
         y: 371
         width: 42
         height: 43
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a129e55182f5d242ad0cda8a037e340
-      internalID: -73808589
+      spriteID: 0137f3209f494254ba8b7e83f7c1cade
+      internalID: 491287129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_50
+      name: JB_SP_50
       rect:
         serializedVersion: 2
         x: 85
         y: 371
         width: 43
         height: 42
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d74802d9cfce02049a1095012b39bd7a
-      internalID: -2066564454
+      spriteID: 945c5b80c711e5d4581ed2a141d63d39
+      internalID: 1843935460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_51
+      name: JB_SP_51
       rect:
         serializedVersion: 2
         x: 132
         y: 370
         width: 44
         height: 44
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ddd258c41f7e33449d076043c95feec
-      internalID: 1450869603
+      spriteID: 3c78eb7edef77bc48bd9821ee3935fc1
+      internalID: -1330058164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_52
+      name: JB_SP_52
       rect:
         serializedVersion: 2
         x: 171
         y: 370
         width: 42
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a7636f61cfa25f40844db3dd8a30fb0
-      internalID: 1944869441
+      spriteID: f32428df38ed5464eb656ac077abd25b
+      internalID: -376905215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_53
+      name: JB_SP_53
       rect:
         serializedVersion: 2
         x: 4
         y: 325
         width: 29
         height: 40
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c24afbff6234442438de612ed287586f
-      internalID: 1030299184
+      spriteID: e89174ce242edfd429555dd5d6c3f5e9
+      internalID: -26704493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_54
+      name: JB_SP_54
       rect:
         serializedVersion: 2
         x: 40
         y: 325
         width: 29
         height: 28
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3630344a9be49ca4185d54559b913fa4
-      internalID: 1598713922
+      spriteID: ce9a4d4336cddec4c8e1cc1525533f7c
+      internalID: -1675337919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_55
+      name: JB_SP_55
       rect:
         serializedVersion: 2
         x: 77
         y: 325
         width: 36
         height: 26
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29f37fad7c81cc54d887fd818a5ee54c
-      internalID: 846527836
+      spriteID: 741bdca0e4162cf4aa7043b924a5e1d6
+      internalID: 504562429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_56
+      name: JB_SP_56
       rect:
         serializedVersion: 2
         x: 116
         y: 326
         width: 57
         height: 21
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: defc3baf847f4e540b81f41720de570c
-      internalID: 574980443
+      spriteID: 42ea88ddf18d99c45a708b24b42092b3
+      internalID: 345948713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_57
+      name: JB_SP_57
       rect:
         serializedVersion: 2
         x: 179
         y: 326
         width: 57
         height: 21
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b04b1aefaa3cc6440828c550566c3ca5
-      internalID: -1159868664
+      spriteID: b5c626a6edb396b4d97a924c728dd3c9
+      internalID: 16577719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_58
+      name: JB_SP_58
       rect:
         serializedVersion: 2
         x: 243
         y: 326
         width: 41
         height: 28
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2280b51d5f8f9c44580ccb65ce7a457f
-      internalID: -1160161118
+      spriteID: be4a8948402296a4eab7ce81e81e3307
+      internalID: -924608189
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_59
+      name: JB_SP_59
       rect:
         serializedVersion: 2
         x: 290
         y: 326
         width: 29
         height: 29
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 499ce2f1fe626264b8a90ba20c0378f9
-      internalID: 1878194900
+      spriteID: 90d72a52ab8fb26409e627532d79284c
+      internalID: 789652645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_60
+      name: JB_SP_60
       rect:
         serializedVersion: 2
         x: 11
         y: 262
         width: 29
         height: 49
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a6c5ebd1c1bc404fba6fb50af790391
-      internalID: -2128480185
+      spriteID: bfd8fb5b63fd02b4d8702580a64f6b4f
+      internalID: 125196146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_61
+      name: JB_SP_61
       rect:
         serializedVersion: 2
         x: 47
         y: 262
         width: 29
         height: 49
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 764942632c9a065409df651a7aed0806
-      internalID: -1349956458
+      spriteID: 750245e1da88f4641a440a3f840e8bdb
+      internalID: 1861777067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_62
+      name: JB_SP_62
       rect:
         serializedVersion: 2
         x: 83
         y: 262
         width: 52
         height: 50
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 045dd435d0b166747aeb750f6cb52321
-      internalID: -824899408
+      spriteID: 2e08cc3969daa9f4c9181f72dc9cc04d
+      internalID: 474766381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_63
+      name: JB_SP_63
       rect:
         serializedVersion: 2
         x: 10
         y: 204
         width: 31
         height: 43
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 446414cc89b1b7c45970f204a2894fca
-      internalID: -642932481
+      spriteID: 436f31d026c958b458585cf221e5cd5e
+      internalID: 716935581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_64
+      name: JB_SP_64
       rect:
         serializedVersion: 2
         x: 49
         y: 208
         width: 32
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bb2fdd1f626d9e4a806ab442c654704
-      internalID: 316217246
+      spriteID: bee360baaa0c99a4a87885d58d77b839
+      internalID: 352864983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_65
+      name: JB_SP_65
       rect:
         serializedVersion: 2
         x: 89
         y: 208
         width: 32
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4ff6e64fbe7d724a8670e19899684b9
-      internalID: 432398422
+      spriteID: ee96bb05f590691438c3d97ea8a22380
+      internalID: 1120364724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_66
+      name: JB_SP_66
       rect:
         serializedVersion: 2
         x: 130
         y: 208
         width: 31
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cbae206899e5f34186c587251bc9d54
-      internalID: 2126088031
+      spriteID: 0771c3d181920604c8016b94998420df
+      internalID: 326757293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_67
+      name: JB_SP_67
       rect:
         serializedVersion: 2
         x: 162
         y: 208
         width: 31
         height: 47
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e89c4b926501d04419827fba6e2dc62e
-      internalID: 424933083
+      spriteID: 1db8c2486a5880a4d87081af6f2e8ac2
+      internalID: 1865689660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_68
+      name: JB_SP_68
       rect:
         serializedVersion: 2
         x: 202
         y: 209
         width: 31
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc0420466698b0d42b58149593d558b6
-      internalID: 33357316
+      spriteID: 9872859dbf4916b48846cd11206a4fd5
+      internalID: -1194221660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_69
+      name: JB_SP_69
       rect:
         serializedVersion: 2
         x: 240
         y: 209
         width: 45
         height: 39
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8ce7a270498cf241838e3f64bad360b
-      internalID: 1067683399
+      spriteID: 11ebb99a5054cec43ae7e0ce0582a271
+      internalID: -1790167345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_70
+      name: JB_SP_70
       rect:
         serializedVersion: 2
         x: 294
         y: 209
         width: 45
         height: 39
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4ad421a8cc9e3d48b58b4b2d2afae25
-      internalID: 1741567018
+      spriteID: 3ccf94c5fd36878438fa5f8bac002603
+      internalID: -762823595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_71
+      name: JB_SP_71
       rect:
         serializedVersion: 2
         x: 349
         y: 209
         width: 45
         height: 38
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5365272d86929eb40bf0e67a45f3f507
-      internalID: -1274746907
+      spriteID: f1afc32616d6e0a439bfe1c4317d914e
+      internalID: -2032294634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_72
+      name: JB_SP_72
       rect:
         serializedVersion: 2
         x: 402
         y: 209
         width: 34
         height: 38
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ecd3279d15e80543a86dd1492bc55cf
-      internalID: 236905719
+      spriteID: 6159c01a65716a24daa735ef2cbdd032
+      internalID: 563590915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_73
+      name: JB_SP_73
       rect:
         serializedVersion: 2
         x: 449
         y: 209
         width: 30
         height: 38
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2a173e57e927b74a9a6974973bb9ad7
-      internalID: -1406420746
+      spriteID: 0c42640db2fe893419a2b6156369361a
+      internalID: 1170883536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_74
+      name: JB_SP_74
       rect:
         serializedVersion: 2
         x: 12
         y: 168
         width: 29
         height: 28
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2251466eca6d63a4cb3f12355561f87a
-      internalID: -531870865
+      spriteID: 5044331fea829f342a66e13480c03c85
+      internalID: -98335483
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_75
+      name: JB_SP_75
       rect:
         serializedVersion: 2
         x: 44
         y: 168
         width: 29
         height: 29
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ac1373a539113245b102e8227996ac4
-      internalID: 67260428
+      spriteID: f6afbab4ff59b5d42bf65fc05f5812b0
+      internalID: -401358349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_76
+      name: JB_SP_76
       rect:
         serializedVersion: 2
         x: 77
         y: 168
         width: 29
         height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd59a097e405b8840ab2fa663f1530ed
-      internalID: 655071094
+      spriteID: 3a34803e8295ce84183258f32f2c8e62
+      internalID: 2035551560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_77
+      name: JB_SP_77
       rect:
         serializedVersion: 2
         x: 109
         y: 168
         width: 31
         height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 490fde71fa3f7684f9b04fc258d6703e
-      internalID: -440802059
+      spriteID: f48b47cbebb402347a0d583eb618759d
+      internalID: -1726859699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_78
+      name: JB_SP_78
       rect:
         serializedVersion: 2
         x: 144
         y: 168
         width: 30
         height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc7cf410448a79c429fcf6de5244ec0d
-      internalID: -1792592249
+      spriteID: 14ea5d0bfbd5ae045b9cb253a0e548ac
+      internalID: -1918263047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_79
+      name: JB_SP_79
       rect:
         serializedVersion: 2
         x: 180
         y: 168
         width: 30
         height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c39fdbd9a439bc4da373b4f52e0cb3e
-      internalID: 1927206807
+      spriteID: 6c0aee7a6fc468c49b711ab2c1454c69
+      internalID: -1151093967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_80
+      name: JB_SP_80
       rect:
         serializedVersion: 2
         x: 213
         y: 168
         width: 52
         height: 28
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abf3c2d47348a684fb3d82a57355fb8e
-      internalID: -1802947951
+      spriteID: f1139a6563658634f9dce1fd4cc889da
+      internalID: -956025310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_81
+      name: JB_SP_81
       rect:
         serializedVersion: 2
         x: 268
         y: 168
         width: 52
         height: 28
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1b414dc32378044ca1bb24659edbb98
-      internalID: 1146940211
+      spriteID: d3bf15ecb81ad764fa391f0664ce2037
+      internalID: 1424384839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_82
+      name: JB_SP_82
       rect:
         serializedVersion: 2
         x: 6
         y: 111
         width: 34
         height: 47
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e6d99fac9a37fe4a8807dd651a83983
-      internalID: -164686938
+      spriteID: 30477c9720f239a4b9952d16adc1b5e3
+      internalID: 1382037736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_83
+      name: JB_SP_83
       rect:
         serializedVersion: 2
         x: 51
         y: 111
         width: 34
         height: 47
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7506475cf63b8344b9fa4760594b62d6
-      internalID: -457775498
+      spriteID: dc76b9185707e2847a0a0ed6d8e7a5bf
+      internalID: 718694338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_84
+      name: JB_SP_84
       rect:
         serializedVersion: 2
         x: 98
         y: 111
         width: 32
         height: 48
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 447adba2ef13f6d43b459bbfdd201432
-      internalID: -1573721184
+      spriteID: 7ecf49d20caf86940bb717531d92f5ff
+      internalID: 1080136210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_85
+      name: JB_SP_85
       rect:
         serializedVersion: 2
         x: 145
         y: 111
         width: 31
         height: 51
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d153e55d52171f140a9bb64200847c00
-      internalID: -801330916
+      spriteID: 37230b7203e92b547b900b057a1efd21
+      internalID: -975027397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_86
+      name: JB_SP_86
       rect:
         serializedVersion: 2
         x: 185
         y: 110
         width: 31
         height: 49
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65d720be3de9e044fa95b7e6837e8ca8
-      internalID: -128346250
+      spriteID: 08d0c657f786cea48bd2a0fc3beba781
+      internalID: -331696260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_87
+      name: JB_SP_87
       rect:
         serializedVersion: 2
         x: 224
         y: 110
         width: 48
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ba3bc39c6cda114b9b90ab0118ab1aa
-      internalID: 318495898
+      spriteID: 4c5ec6122220c3b4584a9d84b0a6f9a1
+      internalID: 925548564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_88
+      name: JB_SP_88
       rect:
         serializedVersion: 2
         x: 282
         y: 110
         width: 48
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c4fcdc9e4c5b984ba2ee8315f7fba12
-      internalID: 541551216
+      spriteID: 228a4e2032a50d347ba73e3155cacd53
+      internalID: -2002204641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_89
+      name: JB_SP_89
       rect:
         serializedVersion: 2
         x: 342
         y: 110
         width: 42
         height: 45
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 758ee399a0374c7488cb5a7784d19678
-      internalID: -11744023
+      spriteID: 9014a1aa0fe7ca54b8b6a3c16a6797aa
+      internalID: 2127926372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_90
+      name: JB_SP_90
       rect:
         serializedVersion: 2
         x: 391
         y: 110
         width: 29
         height: 46
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7aced59dbef87bf48ac274a6290c0793
-      internalID: 48537482
+      spriteID: b8294ac16f8c5564183795b6e817980b
+      internalID: -611356838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_91
+      name: JB_SP_91
       rect:
         serializedVersion: 2
         x: 8
         y: 64
         width: 35
         height: 31
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9263283d79340e4da192cfe931615e4
-      internalID: -1253754545
+      spriteID: c8b25f079ecba2441aaee6aca161bf10
+      internalID: -1505658102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_92
+      name: JB_SP_92
       rect:
         serializedVersion: 2
         x: 49
         y: 64
         width: 28
         height: 40
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8af0b359cdc4bcd45954873284657691
-      internalID: -206807467
+      spriteID: eaa7f02ad09766d43a9bc3d1156887fa
+      internalID: 1525961565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_93
+      name: JB_SP_93
       rect:
         serializedVersion: 2
         x: 87
         y: 64
         width: 36
         height: 38
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a68f04250b546084fb46c03b1b86da78
-      internalID: 978730528
+      spriteID: 19f929b76980d8445a0edd75595ce511
+      internalID: -14130057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_94
+      name: JB_SP_94
       rect:
         serializedVersion: 2
         x: 150
         y: 67
         width: 8
         height: 35
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba7a5dc6abd796340b6ebcc2fa06bc14
-      internalID: -544785662
+      spriteID: f6c3e028c6eb68f4ead077bd88db6987
+      internalID: -810779839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_95
+      name: JB_SP_95
       rect:
         serializedVersion: 2
         x: 171
         y: 78
         width: 47
         height: 17
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17cd01cc65f58e64db241079e4f42013
-      internalID: -1309208220
+      spriteID: 96af3ce4956cd1f4a93a2806bea1b0af
+      internalID: 459814181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_96
+      name: JB_SP_96
       rect:
         serializedVersion: 2
         x: 233
         y: 76
         width: 91
         height: 11
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcec9a670db05c14daf5f47b3a1e76e4
-      internalID: 673199877
+      spriteID: c6ba66a8267a2c14997056804693f316
+      internalID: -1760062089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_97
+      name: JB_SP_97
       rect:
         serializedVersion: 2
         x: 375
         y: 83
         width: 19
         height: 7
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d5bad6e069817843b7f2fd66ea495fa
-      internalID: 1990613098
+      spriteID: 1a1e2a7af603aa44aabd986a39f0e945
+      internalID: -369507037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_98
+      name: JB_SP_98
       rect:
         serializedVersion: 2
         x: 396
         y: 84
         width: 22
         height: 6
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 307e2de4c2763314b953ade090879c1e
-      internalID: -839505651
+      spriteID: 634764df3ec09c84ea6dbec1350f5575
+      internalID: 151297912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_99
+      name: JB_SP_99
       rect:
         serializedVersion: 2
         x: 334
         y: 75
         width: 29
         height: 7
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 706f48002d346bc4885518e63587ecce
-      internalID: -719892854
+      spriteID: 1f03bfa4c20e579488054006567d65d0
+      internalID: -29386828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_100
+      name: JB_SP_100
       rect:
         serializedVersion: 2
         x: 64
         y: 7
         width: 290
         height: 56
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 535ba669b767d3b4a998fe3c15637d0d
-      internalID: -105391063
+      spriteID: 3266ec11e831d314d9c29f7ac5b449ea
+      internalID: 1118314324
       vertices: []
       indices: 
       edges: []
@@ -2248,107 +2248,107 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_8: -907964893
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_37: 51058891
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_63: -642932481
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_45: 2078920955
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_18: -48118434
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_28: 890884071
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_93: 978730528
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_3: 1436031736
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_36: 1798966447
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_47: 238391057
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_77: -440802059
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_62: -824899408
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_97: 1990613098
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_27: -887526210
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_49: -73808589
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_26: 1835155214
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_84: -1573721184
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_1: -1089534269
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_35: -1227093811
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_34: 120992738
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_74: -531870865
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_53: 1030299184
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_59: 1878194900
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_17: 667454465
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_51: 1450869603
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_55: 846527836
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_25: -410852328
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_94: -544785662
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_71: -1274746907
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_86: -128346250
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_58: -1160161118
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_66: 2126088031
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_6: 197687343
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_90: 48537482
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_65: 432398422
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_98: -839505651
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_67: 424933083
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_10: -204402899
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_13: 34345552
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_82: -164686938
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_24: 564520517
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_52: 1944869441
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_39: 1226086945
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_81: 1146940211
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_54: 1598713922
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_80: -1802947951
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_12: -556707485
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_76: 655071094
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_31: 1651571956
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_79: 1927206807
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_70: 1741567018
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_40: 245710524
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_85: -801330916
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_73: -1406420746
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_75: 67260428
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_64: 316217246
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_29: -662928700
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_44: -21580191
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_95: -1309208220
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_43: 612248515
-      ulius Belmont_SP: -15896854
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_42: 764934968
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_5: -539860667
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_23: -1136373852
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_30: 875579480
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_20: 859392163
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_15: -1298566714
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_61: -1349956458
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_48: 1556229682
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_87: 318495898
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_2: 82687006
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_16: -1326190635
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_69: 1067683399
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_33: 992240328
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_92: -206807467
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_91: -1253754545
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_78: -1792592249
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_89: -11744023
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_46: 708069203
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_41: 49061981
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_100: -105391063
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_38: -493153109
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_56: 574980443
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_4: 2026193131
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_72: 236905719
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_11: -847143832
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_7: 442023667
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_83: -457775498
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_14: 1656589100
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_32: 1115147422
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_99: -719892854
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_9: 669926060
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_60: -2128480185
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_57: -1159868664
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_96: 673199877
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_21: -98309033
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_50: -2066564454
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_22: -1378820491
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_68: 33357316
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_88: 541551216
-      DS DSi - Castlevania Dawn of Sorrow - Julius Belmont (1)_19: 1889969311
+      JB_SP_31: 1151945759
+      JB_SP_6: 2092034859
+      JB_SP_17: -1493010161
+      JB_SP_93: -14130057
+      JB_SP_2: -232469863
+      JB_SP_80: -956025310
+      JB_SP_32: -657438102
+      JB_SP_33: -1034901303
+      JB_SP_87: 925548564
+      JB_SP_73: 1170883536
+      JB_SP_72: 563590915
+      JB_SP_44: -2026318048
+      JB_SP_7: 1494066672
+      JB_SP_46: -110813082
+      JB_SP_56: 345948713
+      JB_SP_4: -1162337678
+      JB_SP_89: 2127926372
+      JB_SP_67: 1865689660
+      JB_SP_76: 2035551560
+      JB_SP_81: 1424384839
+      JB_SP_20: -1940949564
+      JB_SP_26: 2092444651
+      JB_SP_40: -224353889
+      JB_SP_43: -268033192
+      JB_SP_9: 798441250
+      JB_SP_25: 2005809988
+      JB_SP_69: -1790167345
+      JB_SP_50: 1843935460
+      JB_SP_64: 352864983
+      JB_SP_65: 1120364724
+      JB_SP_78: -1918263047
+      JB_SP_28: -1773007385
+      JB_SP_13: 1725511021
+      JB_SP_49: 491287129
+      JB_SP_70: -762823595
+      JB_SP_55: 504562429
+      JB_SP_98: 151297912
+      JB_SP_45: -1529209288
+      JB_SP_66: 326757293
+      JB_SP_71: -2032294634
+      JB_SP_85: -975027397
+      JB_SP_11: -436776432
+      JB_SP_14: -188718899
+      JB_SP_100: 1118314324
+      JB_SP_48: 1472765323
+      JB_SP_58: -924608189
+      JB_SP_36: 621530251
+      JB_SP_62: 474766381
+      JB_SP_23: 1759179358
+      JB_SP_30: -739009804
+      JB_SP_1: 382913313
+      JB_SP_92: 1525961565
+      JB_SP_96: -1760062089
+      JB_SP_5: 1975821312
+      JB_SP_42: -1939426414
+      JB_SP_3: 275852926
+      JB_SP_19: -276575866
+      JB_SP_39: -1382087407
+      JB_SP_90: -611356838
+      JB_SP_24: 1689218230
+      JB_SP_10: -411742811
+      JB_SP_91: -1505658102
+      JB_SP_51: -1330058164
+      JB_SP_83: 718694338
+      JB_SP_35: -978605862
+      JB_SP_15: 1906647653
+      JB_SP_18: -1376584398
+      JB_SP_59: 789652645
+      JB_SP_74: -98335483
+      JB_SP_84: 1080136210
+      JB_SP_38: -1123845728
+      JB_SP_77: -1726859699
+      JB_SP_68: -1194221660
+      JB_SP_82: 1382037736
+      JB_SP_27: 716369113
+      JB_SP_34: 1761477683
+      JB_SP_52: -376905215
+      JB_SP_53: -26704493
+      JB_SP_95: 459814181
+      JB_SP_21: 734520727
+      JB_SP_99: -29386828
+      JB_SP_47: 554480753
+      JB_SP_61: 1861777067
+      JB_SP_97: -369507037
+      JB_SP_88: -2002204641
+      JB_SP_94: -810779839
+      JB_SP_22: -963319561
+      JB_SP_29: 392102192
+      JB_SP_0: 1794238646
+      JB_SP_86: -331696260
+      JB_SP_41: -1688728641
+      JB_SP_60: 125196146
+      JB_SP_37: 121514438
+      JB_SP_54: -1675337919
+      JB_SP_57: 16577719
+      JB_SP_63: 716935581
+      JB_SP_79: -1151093967
+      JB_SP_16: -500399156
+      JB_SP_75: -401358349
+      JB_SP_8: 2134263073
+      JB_SP_12: -862003541
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
