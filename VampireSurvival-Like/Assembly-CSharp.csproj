@@ -63,6 +63,9 @@
     <Compile Include="Assets\Scripts\Character\Character.cs" />
     <Compile Include="Assets\Scripts\Weapon\WhipWeapon.cs" />
     <Compile Include="Assets\Scripts\Weapon\DisableTimer.cs" />
+    <Compile Include="Assets\Scripts\UI\HPBar.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemiesController.cs" />
+    <Compile Include="Assets\Scripts\Level\Level.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

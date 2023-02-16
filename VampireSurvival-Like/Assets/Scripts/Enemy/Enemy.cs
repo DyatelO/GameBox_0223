@@ -7,18 +7,23 @@ public class Enemy : MonoBehaviour
 {
     [SerializeField] private Transform target;
     private GameObject targetGameobject;
+    private Character targetCharacter;
     [SerializeField] private float speed = 3.5f;
 
     private Rigidbody2D _rigidbody2d;
 
     [SerializeField] private float hp = 100;
+    [SerializeField] private int damage = 1;
+
+    //public Transform Target { get => target; set => target = value; }
+    //public GameObject TargetGameobject { get => targetGameobject; set => targetGameobject = value; }
 
     private void Awake()
     {
         _rigidbody2d = GetComponent<Rigidbody2D>();
-        target = FindObjectOfType<PlayerMove>().transform;
+        //target = FindObjectOfType<PlayerMove>().transform;
 
-        targetGameobject = target.gameObject;
+
     }
 
     private void FixedUpdate()
@@ -27,12 +32,17 @@ public class Enemy : MonoBehaviour
         _rigidbody2d.velocity = direction * speed;
     }
 
+    internal void SetTarget(GameObject target)
+    {
+        targetGameobject = target;
+        this.target = target.transform;
+    }
+
     private void OnCollisionStay2D(Collision2D collision)
     {
         if(collision.gameObject == targetGameobject)
         {
             Attack();
-
         }
     }
 
@@ -49,6 +59,13 @@ public class Enemy : MonoBehaviour
     private void Attack()
     {
         //Debug.Log("Attack!");
+        if(targetCharacter == null)
+        {
+            //Destroy(gameObject);
+            targetCharacter = targetGameobject.GetComponent<Character>();
+        }
+
+        targetCharacter.TakeDamage(damage);
     }
 
     
