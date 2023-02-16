@@ -11,6 +11,13 @@ public class PlayerMove : MonoBehaviour
 
     private Animate _animate;
 
+    private float lastHorizontalVectorLength;
+    private float lastVerticalVectorLength;
+
+    public Vector2 MovementVector { get => _movementVector; }
+    public float LastHorizontalVectorLength { get => lastHorizontalVectorLength;  }
+    public float LastVerticalVectorLength { get => lastVerticalVectorLength; }
+
     private void Awake()
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
@@ -26,8 +33,14 @@ public class PlayerMove : MonoBehaviour
         //Debug.Log(_movementVector.x);
         _movementVector.y = Input.GetAxisRaw("Vertical");
 
-        if (_movementVector != Vector2.zero)
+        if (_movementVector.x != 0)
         {
+            lastHorizontalVectorLength = _movementVector.x;
+            //return;
+        }        
+        if (_movementVector.y != 0)
+        {
+            lastVerticalVectorLength = _movementVector.y;
             //return;
         }
             _animate.ToRight = _movementVector.x;

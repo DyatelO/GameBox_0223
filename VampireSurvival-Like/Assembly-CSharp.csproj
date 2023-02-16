@@ -60,6 +60,9 @@
     <Compile Include="Assets\Scripts\Character\Animate.cs" />
     <Compile Include="Assets\Scripts\Character\AnimateViewModel.cs" />
     <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Character\Character.cs" />
+    <Compile Include="Assets\Scripts\Weapon\WhipWeapon.cs" />
+    <Compile Include="Assets\Scripts\Weapon\DisableTimer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
