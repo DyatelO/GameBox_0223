@@ -4,15 +4,29 @@ using UnityEngine;
 
 public class Level : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private int level = 1;
+    private int experience = 0;
+    [SerializeField] private ExperienceProgress experienceProgress;
+    public int LevelUp => level * 1000;
+
+    private void Start()
     {
-        
+        experienceProgress.UpdateExperience(experience, LevelUp);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void AddExperience(int amount)
     {
-        
+        experience += amount;
+        CheckLevelUp();
+        experienceProgress.UpdateExperience(experience, LevelUp);
+    }
+
+    public void CheckLevelUp()
+    {
+        if (experience >= LevelUp)
+        {
+            experience -= LevelUp;
+            level++;
+        }
     }
 }

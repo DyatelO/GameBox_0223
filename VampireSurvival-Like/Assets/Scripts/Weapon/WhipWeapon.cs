@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class WhipWeapon : MonoBehaviour
 {
-    private float timeToAttack = 1;
+    private float timeToAttack = 0.5f;
     private float timer;
     private int whipDamage = 25;
 

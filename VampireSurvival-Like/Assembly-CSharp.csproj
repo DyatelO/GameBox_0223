@@ -66,6 +66,8 @@
     <Compile Include="Assets\Scripts\UI\HPBar.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemiesController.cs" />
     <Compile Include="Assets\Scripts\Level\Level.cs" />
+    <Compile Include="Assets\Scripts\Enemy\IDamageable.cs" />
+    <Compile Include="Assets\Scripts\Level\ExperienceProgress.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Enemy : MonoBehaviour, IDamageable
 {
     [SerializeField] private Transform target;
     private GameObject targetGameobject;
@@ -14,6 +14,7 @@ public class Enemy : MonoBehaviour
 
     [SerializeField] private float hp = 100;
     [SerializeField] private int damage = 1;
+    [SerializeField] private int experience = 10;
 
     //public Transform Target { get => target; set => target = value; }
     //public GameObject TargetGameobject { get => targetGameobject; set => targetGameobject = value; }
@@ -52,6 +53,7 @@ public class Enemy : MonoBehaviour
 
         if(hp <= 0)
         {
+            targetGameobject.GetComponent<Level>().AddExperience(experience);
             gameObject.SetActive(false);
         }
     }
