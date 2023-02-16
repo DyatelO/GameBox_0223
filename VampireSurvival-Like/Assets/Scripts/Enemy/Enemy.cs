@@ -12,9 +12,9 @@ public class Enemy : MonoBehaviour, IDamageable
 
     private Rigidbody2D _rigidbody2d;
 
-    [SerializeField] private float hp = 100;
+    [SerializeField] private float hp = 25;
     [SerializeField] private int damage = 1;
-    [SerializeField] private int experience = 10;
+    [SerializeField] private int experience = 1000;
 
     //public Transform Target { get => target; set => target = value; }
     //public GameObject TargetGameobject { get => targetGameobject; set => targetGameobject = value; }

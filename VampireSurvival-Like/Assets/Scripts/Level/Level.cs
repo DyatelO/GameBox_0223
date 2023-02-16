@@ -12,6 +12,7 @@ public class Level : MonoBehaviour
     private void Start()
     {
         experienceProgress.UpdateExperience(experience, LevelUp);
+        experienceProgress.SetLevelText(level);
     }
 
     public void AddExperience(int amount)
@@ -27,6 +28,7 @@ public class Level : MonoBehaviour
         {
             experience -= LevelUp;
             level++;
+            experienceProgress.SetLevelText(level);
         }
     }
 }

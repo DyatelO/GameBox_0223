@@ -50,8 +50,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   speed: 0.5
-  hp: 100
+  hp: 25
   damage: 1
+  experience: 1000
 --- !u!114 &503295896401819760
 MonoBehaviour:
   m_ObjectHideFlags: 0
