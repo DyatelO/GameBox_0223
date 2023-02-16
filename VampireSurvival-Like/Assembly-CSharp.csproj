@@ -56,9 +56,10 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Sprites\Scripts\Character\PlayerMove.cs" />
-    <Compile Include="Assets\Sprites\Scripts\Character\Animate.cs" />
-    <Compile Include="Assets\Sprites\Scripts\Character\AnimateViewModel.cs" />
+    <Compile Include="Assets\Scripts\Character\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\Character\Animate.cs" />
+    <Compile Include="Assets\Scripts\Character\AnimateViewModel.cs" />
+    <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -831,6 +832,12 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
