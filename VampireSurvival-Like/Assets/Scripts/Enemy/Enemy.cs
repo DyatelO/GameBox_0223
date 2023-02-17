@@ -52,9 +52,11 @@ public class Enemy : MonoBehaviour, IDamageable
     {
         hp -= damage;
 
+
         if(hp <= 0)
         {
             targetGameobject.GetComponent<Level>().AddExperience(experience);
+            GetComponent<DropOnDestroy>().CheckDrop();
             gameObject.SetActive(false);
         }
     }

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Aarmor
   m_EditorClassIdentifier: 
   name: Jacket
-  armor: 10
+  armor: 1

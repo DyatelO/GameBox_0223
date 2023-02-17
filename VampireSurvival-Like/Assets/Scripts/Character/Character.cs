@@ -18,7 +18,7 @@ public class Character : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        if(damage < _armor )
+        if(damage / _armor < 0.5f )
         {
             damage = 1;
             _currentHp -= (damage); 
@@ -31,6 +31,7 @@ public class Character : MonoBehaviour
         if(_currentHp <= 0)
         {
             gameObject.SetActive(false);
+            GetComponent<CharacterGameOver>().GameOver();
         }
 
         if(hPBar == null)

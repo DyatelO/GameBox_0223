@@ -75,6 +75,8 @@
     <Compile Include="Assets\Scripts\Character\AnimateViewModel.cs" />
     <Compile Include="Assets\Scripts\Items\PassiveItem.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\SctiptableItems\Item.cs" />
+    <Compile Include="Assets\Scripts\UI\CharacterGameOver.cs" />
+    <Compile Include="Assets\Scripts\Items\DropOnDestroy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
