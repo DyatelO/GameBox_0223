@@ -23,8 +23,6 @@ public class Enemy : MonoBehaviour, IDamageable
     {
         _rigidbody2d = GetComponent<Rigidbody2D>();
         //target = FindObjectOfType<PlayerMove>().transform;
-
-
     }
 
     private void FixedUpdate()
@@ -51,7 +49,6 @@ public class Enemy : MonoBehaviour, IDamageable
     public void TakeDamage(int damage)
     {
         hp -= damage;
-
 
         if(hp <= 0)
         {
