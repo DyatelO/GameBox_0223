@@ -56,22 +56,23 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Items\SpawnObject.cs" />
     <Compile Include="Assets\Scripts\UI\HPBar.cs" />
     <Compile Include="Assets\Scripts\Character\Animate.cs" />
     <Compile Include="Assets\Scripts\Character\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\Level\ExperienceProgress.cs" />
+    <Compile Include="Assets\Scripts\Items\PickUp.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemiesController.cs" />
     <Compile Include="Assets\Scripts\Weapon\WhipWeapon.cs" />
     <Compile Include="Assets\Scripts\Character\Character.cs" />
     <Compile Include="Assets\Scripts\Weapon\DisableTimer.cs" />
     <Compile Include="Assets\Scripts\Enemy\IDamageable.cs" />
+    <Compile Include="Assets\Scripts\Weapon\ThrownAxeProjectile.cs" />
     <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Weapon\ThrowingAxeWeapon.cs" />
+    <Compile Include="Assets\Scripts\Items\IPickUpObject.cs" />
     <Compile Include="Assets\Scripts\Level\Level.cs" />
     <Compile Include="Assets\Scripts\Character\AnimateViewModel.cs" />
-    <Compile Include="Assets\Scripts\Items\PickUp.cs" />
-    <Compile Include="Assets\Scripts\Items\IPickUpObject.cs" />
-    <Compile Include="Assets\Scripts\Items\SpawnObject.cs" />
-    <Compile Include="Assets\Scripts\Weapon\ThrowingAxeWeapon.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

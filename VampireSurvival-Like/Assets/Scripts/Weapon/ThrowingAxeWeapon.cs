@@ -29,9 +29,20 @@ public class ThrowingAxeWeapon : MonoBehaviour
         SpawnAxe();
     }
 
+    private void FixedUpdate()
+    {
+        //if (timer == 0)
+        //{
+        //    SpawnAxe();
+        //}
+    }
+
     private void SpawnAxe()
     {
         GameObject thrownAxe = Instantiate(axePrefab);
         thrownAxe.transform.position = transform.position;
+        //thrownAxe.transform.localEulerAngles = Vector3.forward * -45;
+        thrownAxe.GetComponent<ThrownAxeProjectile>().SetDirection(_playerMove.LastHorizontalVectorLength , Vector2.up.y + 10);
+            //_playerMove.LastHorizontalVectorLength, 0.125f);
     }
 }
