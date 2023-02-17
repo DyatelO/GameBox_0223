@@ -22,6 +22,11 @@ public class Level : MonoBehaviour
         weaponController = GetComponent<WeaponController>();
     }
 
+    internal void AddUpgradesIntoTheListOfAvailableUpgrades(List<UpgradeData> upgradesToAdd)
+    {
+        this.upgradeDatasList.AddRange(upgradesToAdd);
+    }
+
     private void Start()
     {
         experienceProgress.UpdateExperience(experience, LevelUp);
@@ -56,6 +61,7 @@ public class Level : MonoBehaviour
         switch (upgradeData.upgradeType)
         {
             case UpgradeType.WeaponUpgrade:
+                weaponController.UpgradeWeapon(upgradeData);
                 break;            
             case UpgradeType.ItemUpgrade:
                 break;            

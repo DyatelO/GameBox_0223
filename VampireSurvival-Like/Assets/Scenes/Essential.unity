@@ -2437,9 +2437,6 @@ MonoBehaviour:
   experienceProgress: {fileID: 880071890}
   upgradePanelController: {fileID: 1932328034}
   upgradeDatasList:
-  - {fileID: 11400000, guid: 02a19b78b90afaf498d2082b0598413b, type: 2}
-  - {fileID: 11400000, guid: f635f805957d4ad4fb9de448c16cb511, type: 2}
-  - {fileID: 11400000, guid: e18d954f8126db44591459ce6672dc15, type: 2}
   - {fileID: 11400000, guid: 8a9e21c4ba80cf94bb27ddc178688c5e, type: 2}
   acquiredUpgrades: []
 --- !u!114 &1313080739

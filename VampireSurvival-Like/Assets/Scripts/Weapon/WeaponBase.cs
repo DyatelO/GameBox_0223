@@ -6,13 +6,14 @@ using UnityEngine;
 public abstract class WeaponBase : MonoBehaviour
 {
     public WeaponData _weaponData; // { get; set; }
-    [SerializeField] private WeaponStats weaponStats;
+    //[SerializeField] private WeaponStats weaponStats;
+    public WeaponStats _weaponStats;
 
     private float _timeToAttack = 1f;
     private float _timer;
 
     public float TimeToAttack { get => _timeToAttack; }
-    public WeaponStats WeaponStats { get => weaponStats; }
+    public WeaponStats WeaponStats { get => _weaponStats; }
 
     public void Update()
     {
@@ -29,10 +30,14 @@ public abstract class WeaponBase : MonoBehaviour
         _weaponData = weaponData;
         _timeToAttack = _weaponData.WeaponStats.TimeToAttack;
 
-        weaponStats = new WeaponStats(weaponData.WeaponStats.Damage, weaponData.WeaponStats.TimeToAttack);
+        _weaponStats = new WeaponStats(weaponData.WeaponStats.Damage, weaponData.WeaponStats.TimeToAttack);
     }
 
     //Возможно нужен интерфейс.
     public abstract void Attack();
 
+    public void Upgrade(UpgradeData upgradeData)
+    {
+        _weaponStats.Sum(upgradeData.weaponUpgradeStats);
+    }
 }

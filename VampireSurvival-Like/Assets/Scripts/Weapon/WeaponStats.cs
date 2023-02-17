@@ -15,4 +15,10 @@ public class WeaponStats
 
     public int Damage { get => damage;  }
     public float TimeToAttack { get => timetoAttack; }
+
+    internal void Sum(WeaponStats weaponUpgradeStats)
+    {
+        this.damage += weaponUpgradeStats.damage;
+        this.timetoAttack += weaponUpgradeStats.timetoAttack;
+    }
 }
