@@ -9,11 +9,25 @@ public class Character : MonoBehaviour
     [SerializeField] private HPBar hPBar;
     [SerializeField] private int _armor = 10;
 
+    public float healthRegenerationRate = 1f;
+    public float healthRegenerationTimer;
+
     public int Armor { get => _armor; set => _armor = value; }
 
     private void Awake()
     {
         _currentHp = _maxHp;        
+    }
+
+    private void Update()
+    {
+        healthRegenerationTimer += Time.deltaTime * healthRegenerationRate;
+
+        if(healthRegenerationTimer > 0)
+        {
+            Heal(1);
+            healthRegenerationTimer -= 1f;
+        }
     }
 
     public void TakeDamage(int damage)

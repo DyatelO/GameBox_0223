@@ -19,6 +19,8 @@ public class ThrowingAxeWeapon : WeaponBase
         GameObject thrownAxe = Instantiate(axePrefab);
         thrownAxe.transform.position = transform.position;
         //thrownAxe.transform.localEulerAngles = Vector3.forward * -45;
-        thrownAxe.GetComponent<ThrownAxeProjectile>().SetDirection(_playerMove.LastHorizontalVectorLength, Vector2.up.y + 10);
+        ThrownAxeProjectile thrownAxeProjectile = axePrefab.GetComponent<ThrownAxeProjectile>();
+        thrownAxeProjectile.SetDirection(_playerMove.LastHorizontalVectorLength, Vector2.up.y + 10);
+        thrownAxeProjectile.damage = WeaponStats.Damage;
     }
 }

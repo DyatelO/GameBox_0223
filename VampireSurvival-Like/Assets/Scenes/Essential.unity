@@ -2436,8 +2436,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   experienceProgress: {fileID: 880071890}
   upgradePanelController: {fileID: 1932328034}
-  upgradeDatasList:
-  - {fileID: 11400000, guid: 8a9e21c4ba80cf94bb27ddc178688c5e, type: 2}
+  upgradeDatasList: []
   acquiredUpgrades: []
 --- !u!114 &1313080739
 MonoBehaviour:

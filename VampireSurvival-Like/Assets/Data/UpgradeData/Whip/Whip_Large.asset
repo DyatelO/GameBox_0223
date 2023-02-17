@@ -16,3 +16,6 @@ MonoBehaviour:
   name: Whip_Lange
   icon: {fileID: 21300000, guid: 00d3940ced930ea4cab4f6ba4274bbb8, type: 3}
   weaponData: {fileID: 11400000, guid: fc8ee074c983c62458ca82965c364453, type: 2}
+  weaponUpgradeStats:
+    damage: 0
+    timetoAttack: 0

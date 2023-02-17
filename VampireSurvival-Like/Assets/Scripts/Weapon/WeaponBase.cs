@@ -9,10 +9,10 @@ public abstract class WeaponBase : MonoBehaviour
     //[SerializeField] private WeaponStats weaponStats;
     public WeaponStats _weaponStats;
 
-    private float _timeToAttack = 1f;
+    //private float _timeToAttack = 1f;
     private float _timer;
 
-    public float TimeToAttack { get => _timeToAttack; }
+    //public float TimeToAttack { get => _timeToAttack; }
     public WeaponStats WeaponStats { get => _weaponStats; }
 
     public void Update()
@@ -21,14 +21,15 @@ public abstract class WeaponBase : MonoBehaviour
         if (_timer < 0)
         {
             Attack();
-            _timer = _timeToAttack;
+            //_timer = _timeToAttack;
+            _timer = _weaponStats.TimeToAttack;
         }
     }
 
     public virtual void SetData(WeaponData weaponData)
     {
         _weaponData = weaponData;
-        _timeToAttack = _weaponData.WeaponStats.TimeToAttack;
+        //_timeToAttack = _weaponData.WeaponStats.TimeToAttack;
 
         _weaponStats = new WeaponStats(weaponData.WeaponStats.Damage, weaponData.WeaponStats.TimeToAttack);
     }

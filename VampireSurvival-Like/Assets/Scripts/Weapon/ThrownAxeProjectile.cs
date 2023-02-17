@@ -8,7 +8,7 @@ public class ThrownAxeProjectile : MonoBehaviour
     private Vector2 direction;
     [SerializeField] private float speed = 0.5f;
     private Rigidbody2D _rigidbody2D;
-    [SerializeField] private int damage = 70; 
+    public int damage = 70; 
 
     private void Awake()
     {
