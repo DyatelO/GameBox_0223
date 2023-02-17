@@ -33,6 +33,8 @@ public class ThrownAxeProjectile : MonoBehaviour
     private void Update()
     {
         bool isHit = false;
+
+
         Collider2D[] hitColliders = Physics2D.OverlapCircleAll(transform.position, 0.13f);
         foreach (var item in hitColliders)
         {
