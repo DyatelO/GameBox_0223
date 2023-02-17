@@ -81,6 +81,10 @@
     <Compile Include="Assets\Scripts\Menu\Buttons\CloseButton.cs" />
     <Compile Include="Assets\Scripts\Menu\PauseController.cs" />
     <Compile Include="Assets\Scripts\Menu\UpgradePanelController.cs" />
+    <Compile Include="Assets\Scripts\Weapon\WeaponData.cs" />
+    <Compile Include="Assets\Scripts\Weapon\WeaponStats.cs" />
+    <Compile Include="Assets\Scripts\Weapon\WeaponController.cs" />
+    <Compile Include="Assets\Scripts\Weapon\WeaponBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -3,18 +3,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WhipWeapon : MonoBehaviour
+public class WhipWeapon : WeaponBase
 {
-    private float timeToAttack = 0.5f;
-    private float timer;
-    private int whipDamage = 25;
-
     [SerializeField] private GameObject leftWhipSide;
     [SerializeField] private GameObject rightWhipSide;
 
     private PlayerMove _playerMove;
 
-    private Vector2 whipAttackSize = new Vector2(1f, 0.25f);
+    private Vector2 attackSize = new Vector2(1f, 0.25f);
 
     private void Awake()
     {
@@ -22,30 +18,18 @@ public class WhipWeapon : MonoBehaviour
             //FindObjectOfType<PlayerMove>();
     }
 
-    private void Update()
+    public override void Attack()
     {
-        timer -= Time.deltaTime;
-        if (timer < 0)
-        {
-            Attack();
-        }
-    }
-
-    private void Attack()
-    {
-        //throw new NotImplementedException();
-        timer = timeToAttack;
-
         if (_playerMove.LastHorizontalVectorLength > 0)
         {
             rightWhipSide.SetActive(true);
-            Collider2D[] colliders = Physics2D.OverlapBoxAll(rightWhipSide.transform.position, whipAttackSize, 0f);
+            Collider2D[] colliders = Physics2D.OverlapBoxAll(rightWhipSide.transform.position, attackSize, 0f);
             ApplyDamage(colliders);
         }
         else
         {
             leftWhipSide.SetActive(true);
-            Collider2D[] colliders = Physics2D.OverlapBoxAll(leftWhipSide.transform.position, whipAttackSize, 0f);
+            Collider2D[] colliders = Physics2D.OverlapBoxAll(leftWhipSide.transform.position, attackSize, 0f);
             ApplyDamage(colliders);
         }
     }
@@ -55,12 +39,14 @@ public class WhipWeapon : MonoBehaviour
         foreach (var item in colliders)
         {
             //Debug.Log(item.gameObject.name);
-            Enemy enemy = item.GetComponent<Enemy>();
-            if(enemy != null)
+            //Enemy enemy = item.GetComponent<Enemy>();
+            IDamageable eneny = item.GetComponent<IDamageable>();
+            if(eneny != null)
             {
-                enemy.TakeDamage(whipDamage);
+                eneny.TakeDamage(WeaponStats.Damage);
                 //item.GetComponent<Enemy>().TakeDamage(whipDamage);
             }
         }
     }
+
 }
