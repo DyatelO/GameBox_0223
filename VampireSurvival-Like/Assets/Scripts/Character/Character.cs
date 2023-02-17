@@ -26,7 +26,7 @@ public class Character : MonoBehaviour
         if(healthRegenerationTimer > 0)
         {
             Heal(1);
-            healthRegenerationTimer -= 1f;
+            healthRegenerationTimer += 1f;
         }
     }
 

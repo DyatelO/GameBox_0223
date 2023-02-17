@@ -44,5 +44,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa7e533aa58de57459ada3218112c801, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeToAttack: 2
+  _weaponData: {fileID: 0}
+  _weaponStats:
+    damage: 0
+    timetoAttack: 0
+    numberOfAttack: 1
   axePrefab: {fileID: 6655652858734091127, guid: 17313f25e93ae6e4e8fa6ce67ad75f61, type: 3}
+  spread: 0.5

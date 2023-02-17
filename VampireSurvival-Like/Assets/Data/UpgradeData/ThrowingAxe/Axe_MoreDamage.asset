@@ -16,6 +16,7 @@ MonoBehaviour:
   name: Double Axe
   icon: {fileID: 21300000, guid: 431e8b3378badaa4db9650aaa24c4c9c, type: 3}
   weaponData: {fileID: 11400000, guid: 783b20b26953d3946ba409fd0dbb9e68, type: 2}
-  weaponStats:
+  weaponUpgradeStats:
     damage: 30
     timetoAttack: 0
+    numberOfAttack: 2

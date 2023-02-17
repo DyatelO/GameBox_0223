@@ -31,7 +31,7 @@ public abstract class WeaponBase : MonoBehaviour
         _weaponData = weaponData;
         //_timeToAttack = _weaponData.WeaponStats.TimeToAttack;
 
-        _weaponStats = new WeaponStats(weaponData.WeaponStats.Damage, weaponData.WeaponStats.TimeToAttack);
+        _weaponStats = new WeaponStats(weaponData.WeaponStats.Damage, weaponData.WeaponStats.TimeToAttack, weaponData.WeaponStats.numberOfAttack);
     }
 
     //Возможно нужен интерфейс.

@@ -20,18 +20,29 @@ public class WhipWeapon : WeaponBase
 
     public override void Attack()
     {
-        if (_playerMove.LastHorizontalVectorLength > 0)
+        StartCoroutine(AttackProcess());
+    }
+
+    IEnumerator AttackProcess()
+    {
+        for (int i = 0; i < _weaponStats.numberOfAttack; i++)
         {
-            rightWhipSide.SetActive(true);
-            Collider2D[] colliders = Physics2D.OverlapBoxAll(rightWhipSide.transform.position, attackSize, 0f);
-            ApplyDamage(colliders);
+            if (_playerMove.LastHorizontalVectorLength > 0)
+            {
+                rightWhipSide.SetActive(true);
+                Collider2D[] colliders = Physics2D.OverlapBoxAll(rightWhipSide.transform.position, attackSize, 0f);
+                ApplyDamage(colliders);
+            }
+            else
+            {
+                leftWhipSide.SetActive(true);
+                Collider2D[] colliders = Physics2D.OverlapBoxAll(leftWhipSide.transform.position, attackSize, 0f);
+                ApplyDamage(colliders);
+            }
+            yield return new WaitForSeconds(0.3f);
         }
-        else
-        {
-            leftWhipSide.SetActive(true);
-            Collider2D[] colliders = Physics2D.OverlapBoxAll(leftWhipSide.transform.position, attackSize, 0f);
-            ApplyDamage(colliders);
-        }
+
+
     }
 
     private void ApplyDamage(Collider2D[] colliders)

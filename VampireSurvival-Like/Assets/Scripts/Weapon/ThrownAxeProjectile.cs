@@ -16,6 +16,12 @@ public class ThrownAxeProjectile : MonoBehaviour
 
     }
 
+    private void Start()
+    {
+
+        _rigidbody2D.AddForce((direction) * speed, ForceMode2D.Force);
+    }
+
     public void SetDirection(float directionX, float directionY)
     {
         direction = new Vector2(directionX, directionY);
@@ -55,9 +61,9 @@ public class ThrownAxeProjectile : MonoBehaviour
 
     private void FixedUpdate()
     {
-        //_rigidbody2D.velocity += direction * speed ;
+        _rigidbody2D.velocity += direction * speed ;
 
-        _rigidbody2D.AddForce((direction) * speed, ForceMode2D.Force);
+        //_rigidbody2D.AddForce((direction) * speed, ForceMode2D.Force);
         speed -= Time.fixedDeltaTime;
         //_rigidbody2D.AddForce((direction) * speed, ForceMode2D.Impulse);
         //speed -= 0.05f * Time.deltaTime;
