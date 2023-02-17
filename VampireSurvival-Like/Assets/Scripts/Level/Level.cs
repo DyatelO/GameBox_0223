@@ -10,8 +10,17 @@ public class Level : MonoBehaviour
     [SerializeField] private UpgradePanelController upgradePanelController;
 
     [SerializeField] private List<UpgradeData> upgradeDatasList;
+    private List<UpgradeData> selectedUpgrades;
+    [SerializeField] private List<UpgradeData> acquiredUpgrades;
+
+    private WeaponController weaponController;
 
     public int LevelUp => level * 1000;
+
+    private void Awake()
+    {
+        weaponController = GetComponent<WeaponController>();
+    }
 
     private void Start()
     {
@@ -34,9 +43,44 @@ public class Level : MonoBehaviour
         }
     }
 
+    //Не забыть про стартовый выбор оружия.
+    public void Upgrade(int sekectedUpgradeId)
+    {
+        UpgradeData upgradeData = selectedUpgrades[sekectedUpgradeId];
+
+        if(acquiredUpgrades == null)
+        {
+            acquiredUpgrades = new List<UpgradeData>();
+        }
+
+        switch (upgradeData.upgradeType)
+        {
+            case UpgradeType.WeaponUpgrade:
+                break;            
+            case UpgradeType.ItemUpgrade:
+                break;            
+            case UpgradeType.WeaponUnlock:
+                weaponController.AddWeapon(upgradeData.weaponData);
+                break;            
+            case UpgradeType.ItemUnlock:
+                break;
+
+        }
+
+        acquiredUpgrades.Add(upgradeData);
+        upgradeDatasList.Remove(upgradeData);
+    }
+
     private void NextLevel()
     {
-        upgradePanelController.OpeneMenu(GetUpgradesList(4));
+        if(selectedUpgrades == null)
+        {
+            selectedUpgrades = new List<UpgradeData>();
+        }
+        selectedUpgrades.Clear();
+        selectedUpgrades.AddRange(GetUpgradesList(3));
+
+        upgradePanelController.OpeneMenu(selectedUpgrades);
         experience -= LevelUp;
         level++;
         experienceProgress.SetLevelText(level);
