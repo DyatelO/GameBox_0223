@@ -73,6 +73,8 @@
     <Compile Include="Assets\Scripts\Items\IPickUpObject.cs" />
     <Compile Include="Assets\Scripts\Level\Level.cs" />
     <Compile Include="Assets\Scripts\Character\AnimateViewModel.cs" />
+    <Compile Include="Assets\Scripts\Items\PassiveItem.cs" />
+    <Compile Include="Assets\Scripts\ScriptableObjects\SctiptableItems\Item.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

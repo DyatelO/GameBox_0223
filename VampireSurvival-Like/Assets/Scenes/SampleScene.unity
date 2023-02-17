@@ -8534,6 +8534,7 @@ GameObject:
   - component: {fileID: 1313080735}
   - component: {fileID: 1313080737}
   - component: {fileID: 1313080738}
+  - component: {fileID: 1313080739}
   - component: {fileID: 1313080733}
   - component: {fileID: 1313080736}
   m_Layer: 0
@@ -8648,6 +8649,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _currentHp: 0
   hPBar: {fileID: 0}
+  _Armor: 10
 --- !u!114 &1313080738
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8661,6 +8663,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   experienceProgress: {fileID: 880071890}
+--- !u!114 &1313080739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1313080731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4710ce59eacfcce499a7a36a0d0d2ce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 11400000, guid: 66a49591e6874d94382234d923fd84df, type: 2}
+  armorTest: {fileID: 11400000, guid: 66a49591e6874d94382234d923fd84df, type: 2}
 --- !u!1001 &1341176209
 PrefabInstance:
   m_ObjectHideFlags: 0

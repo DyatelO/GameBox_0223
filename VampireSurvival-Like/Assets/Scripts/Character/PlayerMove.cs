@@ -27,6 +27,12 @@ public class PlayerMove : MonoBehaviour
         _animate = GetComponent<Animate>();
     }
 
+    private void Start()
+    {
+        lastHorizontalVectorLength = 1f;
+        lastVerticalVectorLength = 1f;
+    }
+
     private void Update()
     {
         _movementVector.x = Input.GetAxisRaw("Horizontal");

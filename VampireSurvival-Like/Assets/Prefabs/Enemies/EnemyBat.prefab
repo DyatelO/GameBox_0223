@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
-  speed: 0
+  speed: 0.5
   hp: 25
   damage: 1
   experience: 1000

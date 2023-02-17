@@ -39,6 +39,7 @@ public class Enemy : MonoBehaviour, IDamageable
         this.target = target.transform;
     }
 
+    //было stay Enter
     private void OnCollisionStay2D(Collision2D collision)
     {
         if(collision.gameObject == targetGameobject)
