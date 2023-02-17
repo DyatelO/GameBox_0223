@@ -80,6 +80,7 @@
     <Compile Include="Assets\Scripts\Menu\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Menu\Buttons\CloseButton.cs" />
     <Compile Include="Assets\Scripts\Menu\PauseController.cs" />
+    <Compile Include="Assets\Scripts\Menu\UpgradePanelController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

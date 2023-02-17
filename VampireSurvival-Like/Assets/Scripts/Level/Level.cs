@@ -7,6 +7,7 @@ public class Level : MonoBehaviour
     private int level = 1;
     private int experience = 0;
     [SerializeField] private ExperienceProgress experienceProgress;
+    [SerializeField] private UpgradePanelController upgradePanelController;
     public int LevelUp => level * 1000;
 
     private void Start()
@@ -26,9 +27,15 @@ public class Level : MonoBehaviour
     {
         if (experience >= LevelUp)
         {
-            experience -= LevelUp;
-            level++;
-            experienceProgress.SetLevelText(level);
+            NextLevel();
         }
+    }
+
+    private void NextLevel()
+    {
+        upgradePanelController.OpeneMenu();
+        experience -= LevelUp;
+        level++;
+        experienceProgress.SetLevelText(level);
     }
 }

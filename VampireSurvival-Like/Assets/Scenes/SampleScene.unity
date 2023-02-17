@@ -523,7 +523,7 @@ GameObject:
   - component: {fileID: 118491123}
   - component: {fileID: 118491122}
   m_Layer: 5
-  m_Name: LEVELUPText
+  m_Name: LEVELUP_Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7062,7 +7062,7 @@ GameObject:
   - component: {fileID: 363906898}
   - component: {fileID: 363906897}
   m_Layer: 5
-  m_Name: EXIT_Text
+  m_Name: LEVEL_Upgrade_Text_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7316,7 +7316,7 @@ Transform:
   m_Children:
   - {fileID: 1404369939}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &451283960
 GameObject:
@@ -7477,7 +7477,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &519420033
 MonoBehaviour:
@@ -7688,7 +7688,7 @@ GameObject:
   - component: {fileID: 652640742}
   - component: {fileID: 652640741}
   m_Layer: 5
-  m_Name: ExitButton (2)
+  m_Name: LEVELUP_Button_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8755,7 +8755,7 @@ GameObject:
   - component: {fileID: 872073993}
   - component: {fileID: 872073992}
   m_Layer: 5
-  m_Name: EXIT_Text
+  m_Name: LEVEL_Upgrade_Text_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9166,7 +9166,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &985335004
 PrefabInstance:
@@ -9952,7 +9952,7 @@ Transform:
   - {fileID: 1873067957}
   - {fileID: 1521532270}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &1313080733
 Rigidbody2D:
@@ -10053,6 +10053,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   experienceProgress: {fileID: 880071890}
+  upgradePanelController: {fileID: 1932328034}
 --- !u!114 &1313080739
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10094,7 +10095,7 @@ GameObject:
   - component: {fileID: 1332852913}
   - component: {fileID: 1332852912}
   m_Layer: 5
-  m_Name: ExitButton (3)
+  m_Name: LEVELUP_Button_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10479,7 +10480,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1384757669
 MonoBehaviour:
@@ -10729,7 +10730,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1437542821
 GameObject:
@@ -10924,12 +10925,12 @@ GameObject:
   - component: {fileID: 1490864131}
   - component: {fileID: 1490864130}
   m_Layer: 5
-  m_Name: UpgradePanel
+  m_Name: LEVELUP_Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1490864129
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11456,7 +11457,7 @@ GameObject:
   - component: {fileID: 1799556382}
   - component: {fileID: 1799556381}
   m_Layer: 5
-  m_Name: EXIT_Text
+  m_Name: Close_Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11502,7 +11503,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: EXIT
+  m_text: Close
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11653,7 +11654,7 @@ GameObject:
   - component: {fileID: 1837920475}
   - component: {fileID: 1837920474}
   m_Layer: 5
-  m_Name: EXIT_Text
+  m_Name: LEVEL_Upgrade_Text_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12083,6 +12084,7 @@ GameObject:
   - component: {fileID: 1932328031}
   - component: {fileID: 1932328032}
   - component: {fileID: 1932328033}
+  - component: {fileID: 1932328034}
   m_Layer: 0
   m_Name: -GAMECONTROLLER-
   m_TagString: Untagged
@@ -12103,7 +12105,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1932328032
 MonoBehaviour:
@@ -12130,6 +12132,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f930c4a005882c499e8abada8fd6ea5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1932328034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932328030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9099a4daa13367419ebd4ba22a6e4da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelUpPanel: {fileID: 1490864128}
 --- !u!1001 &1937709027
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12402,7 +12417,7 @@ GameObject:
   - component: {fileID: 2007567972}
   - component: {fileID: 2007567971}
   m_Layer: 5
-  m_Name: ExitButton (1)
+  m_Name: LEVELUP_Button_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12649,7 +12664,7 @@ Transform:
   - {fileID: 2080590104}
   - {fileID: 112011149}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2060375997
 PrefabInstance:
