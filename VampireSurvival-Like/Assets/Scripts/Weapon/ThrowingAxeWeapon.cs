@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class ThrowingAxeWeapon : MonoBehaviour
 {
-    [SerializeField] private float timeToAttack = 2;
+    [SerializeField] private float timeToAttack = 1.5f;
     private float timer;
 
     private PlayerMove _playerMove;

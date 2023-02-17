@@ -8,6 +8,7 @@ public class ThrownAxeProjectile : MonoBehaviour
     private Vector2 direction;
     [SerializeField] private float speed = 0.5f;
     private Rigidbody2D _rigidbody2D;
+    [SerializeField] private int damage = 70; 
 
     private void Awake()
     {
@@ -31,13 +32,23 @@ public class ThrownAxeProjectile : MonoBehaviour
 
     private void Update()
     {
-        if(direction != Vector2.zero)
+        bool isHit = false;
+        Collider2D[] hitColliders = Physics2D.OverlapCircleAll(transform.position, 0.13f);
+        foreach (var item in hitColliders)
         {
-            //speed -= 0.1f * Time.deltaTime;
-            
+            Enemy enemy = item.GetComponent<Enemy>();
+            if (enemy != null)
+            {
+                enemy.TakeDamage(damage);
+                isHit = true;
+                break;
+            }
         }
-        //_rigidbody2D.AddForce((direction) * speed, ForceMode2D.Force);
-        //speed -= Time.deltaTime;
+
+        //if(isHit)
+        //{
+        //    Destroy(gameObject);
+        //}
     }
 
     private void FixedUpdate()
